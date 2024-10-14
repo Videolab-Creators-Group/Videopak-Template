@@ -60,3 +60,10 @@ crashlytics-build.properties
 
 #MacOS
 .DS_Store
+
+#VSCODE
+.vscode/
+
+#Unity user settings
+
+UserSettings/
